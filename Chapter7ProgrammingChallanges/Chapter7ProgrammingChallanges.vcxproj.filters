@@ -18,9 +18,11 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20 Theater Seating.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="month_data.txt" />
     <Text Include="random_numbers.txt">
       <Filter>Source Files</Filter>
     </Text>
@@ -31,6 +33,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="rowprices.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="month_data.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
